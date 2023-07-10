@@ -1,8 +1,6 @@
-# <h1 align="center">Massa testnet 23</h1>
+# <h1 align="center">Massa Restnet 24</h1>
 
 ![massa](https://user-images.githubusercontent.com/73015593/180018941-20b9e515-6e94-47ef-b928-b8e3ba507691.jpg)
-
-# Hetzner'de 20 Euro bonus [Link](https://hetzner.cloud/?ref=vtZTtbpG2Vcn)   
 
 # Linkler
 > ## [Discord](https://discord.gg/K59z3Asm)
@@ -65,9 +63,9 @@ Bu komut, Rust programlama dilinde varsayılan olarak kullanılacak derleme arac
 rustup default nightly
 ```
 
-## massa repository'den `Massa 23.2` binary dosyasını indiriyoruz.
+## massa repository'den `Massa 24.1` binary dosyasını indiriyoruz.
 ```
-wget -O massa.tar.gz https://github.com/massalabs/massa/releases/download/TEST.23.2/massa_TEST.23.2_release_linux.tar.gz
+wget -O massa.tar.gz https://github.com/massalabs/massa/releases/download/TEST.24.1/massa_TEST.24.1_release_linux.tar.gz
 tar -xzf massa.tar.gz
 rm massa.tar.gz
 ```
